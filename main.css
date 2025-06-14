@@ -139,3 +139,13 @@ footer {
   padding: 30px;
 }
 
+.navbar-items li a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.navbar-items li a:hover {
+    opacity: 0.8;
+}
+
+
